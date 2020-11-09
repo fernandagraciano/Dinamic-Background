@@ -1,2 +1,2 @@
-# Dinamic-Background
-Dinamic and possibly interactive backgrounds 
+# Dynamic-Background
+Dynamic and possibly interactive backgrounds 
